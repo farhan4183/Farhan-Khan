@@ -1,0 +1,128 @@
+/* Scss Document */
+
+
+
+#MyPicture {
+	position: absolute;
+	left:50%;
+	top: 25px;
+	width: 213px;
+	height: 213px;
+	}
+#headline{
+	font: normal;
+	font-size: 25;
+	position:absolute;
+	left:50%;
+	top: 10px;
+	
+		
+}
+
+#table{
+	position:absolute;
+	left: 50%;
+	top: 420px;
+		
+}
+
+#description{
+	color: antiquewhite;
+	font: bold;
+	font-size: 20px;
+	position:absolute;
+	left:18%;
+	top: 110px;
+	width: 280px;
+}
+#image{
+	position:absolute;
+	left:15%;
+	top: 60px;
+	
+}
+#heading{
+    font-size: xx-large;
+    color: #F3090D;   
+	font:bolder
+}
+/*#link{
+    font-size: 18px;
+    font: bold;	
+	
+}*/
+#nvbar{
+	color: #FCFCFC;
+	font-size: 12px;
+    font-weight: bold;
+	font-family: "Lucida Console", Courier, monospace;
+	position:absolute;
+	left:16%;
+	top: 65px;
+	}
+.hlink{
+color: yellowgreen;
+}
+
+/* visited link */
+.hlink:visited {
+  color: yellowgreen;
+}
+
+/* mouse over link */
+.hlink:hover {
+  color: yellowgreen;
+}
+
+/* selected link */
+.hlink:active {
+  color: yellowgreen;
+}
+
+
+.jlink{
+color:#6E3132;
+}
+
+/* visited link */
+.jlink:visited {
+  color: #6E3132;
+}
+
+/* mouse over link */
+.jlink:hover {
+  color: yellowgreen;
+}
+
+/* selected link */
+.jlink:active {
+  color: #6E3132;
+}
+
+
+#Jscript{
+	position:absolute;
+	left:40%;
+	top: 100px;
+	font-size: xx-large;
+    color: #F3090D;   
+	font:bolder
+
+	}
+
+#jmiddlebar{
+	position:absolute;
+	left:40%;
+	top: 150px;
+	font-size: middle;
+    color:#000000;   
+	font:bolder
+	
+	
+	
+}
+
+/* set background image per page */
+.jpg-bg {
+background: url("jbg.jpg") no-repeat center center fixed;
+}
